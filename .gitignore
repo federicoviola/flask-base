@@ -13,3 +13,9 @@ dist
 *.sqlite
 .idea
 dump.rdb
+data-dev.sqlite
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
